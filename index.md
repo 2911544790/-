@@ -14,7 +14,17 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+<details><summary>CLICK ME</summary>
+<p>
 
+#### 你好啊，我是hello word
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
 - Bulleted
 - List
 
