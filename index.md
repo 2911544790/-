@@ -10,7 +10,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+<details><summary>CLICK ME</summary>
+<p>
 
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
 # Header 1
 ## Header 2
 ### Header 3
